@@ -9,7 +9,6 @@ from flask import Flask, request
 from requests_oauthlib import OAuth2Session
 from werkzeug.serving import make_server
 
-import streamlit as st
 
 CLIENT_ID = "KxvPkRJiHIZX0BuHrNdCXM0LCQ9ZEFKjrVIREKgr"
 CLIENT_SECRET = "PtEe1pSe18sh3frhlnEO1ULP7KORKDvZ3sGbCQWZjEilPU6FlUbzPCq1ZUuM8vO2T7N1U41JzKuAlaay1MyyKPelLia4FxJ8yqHnW4B6IC73SGVwB7MI1wrTPYMyzlDl"
